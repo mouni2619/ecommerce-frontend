@@ -10,7 +10,7 @@ export const ProductProvider = ({ children }) => {
   const [category, setCategory] = useState('');
 
   useEffect(() => {
-    axios.get("http://localhost:5000/api/products")
+    axios.get("https://ecommerce-backend-7pzy.onrender.com/api/products")
       .then(response => {
         setProducts(response.data);
         setFilteredProducts(response.data);
