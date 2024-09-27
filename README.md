@@ -1,3 +1,5 @@
+The frontend of the ECommerce landing page is developed using React, providing a dynamic and responsive user interface. Key features include a well-organized product display that fetches data from a custom-built API, showcasing products in a visually appealing grid layout. Each product card prominently displays essential information, such as the product image, title, and price, enhancing user engagement. The application incorporates a search bar that dynamically filters products based on user input, allowing for quick and efficient product discovery. Additionally, category filters enable users to narrow down their selections to specific types of products, streamlining the shopping experience. When a product is clicked, a modal opens to reveal detailed information, including a larger image, description, and availability, all designed to ensure a smooth and intuitive browsing experience on both desktop and mobile devices.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
